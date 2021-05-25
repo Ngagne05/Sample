@@ -1,5 +1,5 @@
-public class Main {
+tpublic class Main {
     public static void main(String[] args){
-        System.out.println("Na ngen def yen wa Atos.(new branch)");
+        System.out.println("Na ngen def yen wa Atos.(feature branch)");
     }
 }
